@@ -1,0 +1,1 @@
+src/example.php:5 PhanPluginReturnTypeOverrideWrongAnnotation Return type for \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase4\ServiceLocator::instance call can't be inferred (Class \NonExistingClass does not exist)

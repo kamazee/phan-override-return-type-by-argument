@@ -1,0 +1,1 @@
+src/example.php:6 PhanUndeclaredMethod Call to undeclared method \Exception::_getMessage

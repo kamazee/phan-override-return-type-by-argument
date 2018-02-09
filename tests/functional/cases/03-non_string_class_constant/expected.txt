@@ -1,0 +1,1 @@
+src/example.php:5 PhanPluginReturnTypeOverrideWrongAnnotation Return type for \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase3\ServiceLocator::instance call can't be inferred (Value of \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase3\Constants::INTEGER_CONST is not a string)

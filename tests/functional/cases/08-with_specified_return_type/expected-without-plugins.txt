@@ -1,0 +1,2 @@
+src/example.php:8 PhanUndeclaredMethod Call to undeclared method \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase8\AbstractService::_getMessage
+src/example.php:9 PhanUndeclaredMethod Call to undeclared method \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase8\AbstractService::getMessage

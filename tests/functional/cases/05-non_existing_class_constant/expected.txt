@@ -1,0 +1,2 @@
+src/example.php:5 PhanPluginReturnTypeOverrideWrongAnnotation Return type for \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase5\ServiceLocator::instance call can't be inferred (Class \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase5\Exception doesn't exist)
+src/example.php:5 PhanUndeclaredClassConstant Reference to constant TEST from undeclared class \Kamazee\PhanPlugin\OverrideReturnTypeByArgument\TestCase5\Exception
