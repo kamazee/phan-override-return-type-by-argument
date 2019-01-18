@@ -24,8 +24,8 @@ class FunctionalTest extends TestCase
 
         if (file_exists($expectedFile)) {
             $output = $this->exec($command, $path);
-            $this->assertStringEqualsFile(
-                $expectedFile,
+            $this->assertStringStartsWith(
+                trim(file_get_contents($expectedFile)),
                 $output,
                 'Error messages with plugin enabled must match expected'
             );

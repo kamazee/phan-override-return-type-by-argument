@@ -6,7 +6,7 @@
   "require": {
     "php": "^7.1",
     "ext-ast": "*",
-    "phan/phan": "^0.10|^0.11"
+    "phan/phan": "^0.10|^0.11|^1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^6.5",

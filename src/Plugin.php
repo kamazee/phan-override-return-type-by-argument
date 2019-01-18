@@ -133,7 +133,7 @@ final class Plugin extends PluginV2 implements ReturnTypeOverrideCapability
             );
         }
 
-        return UnionType::fromFullyQualifiedString($returnClassName);
+        return $fqsen->asUnionType();
     }
 
     /**
